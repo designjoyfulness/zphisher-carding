@@ -1,0 +1,177 @@
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 64.124.27.90
+User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64; rv:109.0) Gecko/20100101 Firefox/110.0
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 106.155.3.199
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/118.1 Mobile/15E148 Safari/605.1.15
+
+IP: 106.155.3.199
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 16_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/118.1 Mobile/15E148 Safari/605.1.15
+
+IP: 34.123.170.104
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/125.0.6422.60 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 217.61.227.222
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 79.148.179.196
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Ubuntu Chromium/115.0.5810.222 Chrome/115.0.5810.222 Safari/537.36
+
+IP: 201.141.27.249
+User-Agent: WhatsApp
+
+IP: 149.154.161.213
+User-Agent: TelegramBot (like TwitterBot)
+
+IP: 31.59.33.69
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.140 Safari/537.36
+
+IP: 129.212.200.6
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
+
+IP: 46.101.70.221
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
+
+IP: 152.42.157.60
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
+
+IP: 188.209.112.130
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
+
+IP: 174.138.115.87
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 149.50.212.201
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 144.126.240.247
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 188.166.206.18
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 46.101.70.221
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 206.189.247.132
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 174.138.112.39
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 170.64.241.17
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 46.101.70.221
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 46.101.70.221
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 34.145.132.42
+User-Agent: Mozilla/5.0 zgrab/0.x
+
+IP: 34.145.132.42
+User-Agent: Mozilla/5.0 zgrab/0.x
+
+IP: 34.145.132.42
+User-Agent: Mozilla/5.0 zgrab/0.x
+
+IP: 129.212.200.6
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0
+
+IP: 201.141.27.249
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36 Edg/138.0.0.0
+
+IP: 201.141.27.249
+User-Agent: WhatsApp
+
+IP: 149.154.161.237
+User-Agent: TelegramBot (like TwitterBot)
+
+IP: 149.154.161.216
+User-Agent: TelegramBot (like TwitterBot)
+
+IP: 46.101.70.221
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 206.189.247.132
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 174.138.112.39
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 170.64.241.17
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 206.189.247.132
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 170.64.241.17
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 18_1_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1.1 Mobile/15E148 Safari/604.1
+
+IP: 149.50.212.201
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 174.138.115.87
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 144.126.240.247
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 188.166.206.18
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Mobile Safari/537.36
+
+IP: 105.161.205.84
+User-Agent: WhatsApp/2.23.20.0
+
